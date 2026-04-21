@@ -1,0 +1,113 @@
+import { StyleSheet } from "react-native";
+
+export const estilos = StyleSheet.create({
+    container: {
+        flex: 1,
+        backgroundColor: "#f5f5f5",
+    },
+    header: {
+        backgroundColor: "#c1121f",
+        paddingVertical: 20,
+        paddingHorizontal: 15,
+        alignItems: "center",
+    },
+    headerButton: {
+        backgroundColor: "#c1121f",
+        paddingVertical: 12,
+        paddingHorizontal: 20,
+        borderRadius: 5,
+        marginVertical: 10,
+    },
+    headerButtonText: {
+        color: "white",
+        fontSize: 16,
+        fontWeight: "bold",
+        textTransform: "uppercase",
+    },
+    headerSubText: {
+        color: "#999",
+        fontSize: 12,
+        marginTop: 5,
+    },
+    divider: {
+        height: 2,
+        backgroundColor: "#c1121f",
+        marginVertical: 10,
+    },
+    tituloSecao: {
+        fontSize: 24,
+        fontWeight: "bold",
+        marginLeft: 15,
+        marginTop: 15,
+        marginBottom: 10,
+        color: "#000",
+    },
+    scrollView: {
+        paddingHorizontal: 10,
+        paddingBottom: 20,
+    },
+    itemNoticia: {
+        backgroundColor: "white",
+        marginVertical: 8,
+        marginHorizontal: 5,
+        paddingVertical: 12,
+        paddingHorizontal: 15,
+        borderRadius: 5,
+        borderLeftWidth: 4,
+        borderLeftColor: "#c1121f",
+        flexDirection: "row",
+        alignItems: "flex-start",
+    },
+    itemConteudo: {
+        flex: 1,
+        marginRight: 10,
+    },
+    itemImagem: {
+        width: 60,
+        height: 60,
+        borderRadius: 5,
+        backgroundColor: "#e0e0e0",
+        justifyContent: "center",
+        alignItems: "center",
+    },
+    itemCategoriaText: {
+        color: "#c1121f",
+        fontSize: 11,
+        fontWeight: "bold",
+        marginBottom: 5,
+        textTransform: "uppercase",
+    },
+    itemManchetaText: {
+        fontSize: 14,
+        fontWeight: "bold",
+        color: "#000",
+        marginBottom: 8,
+        lineHeight: 18,
+    },
+    itemDataText: {
+        fontSize: 11,
+        color: "#999",
+    },
+    rodape: {
+        backgroundColor: "#333",
+        paddingVertical: 15,
+        paddingHorizontal: 20,
+        alignItems: "center",
+        justifyContent: "space-around",
+        flexDirection: "row",
+        borderTopWidth: 1,
+        borderTopColor: "#555",
+    },
+    rodapeIcon: {
+        width: 30,
+        height: 30,
+        borderRadius: 15,
+        backgroundColor: "#555",
+        justifyContent: "center",
+        alignItems: "center",
+    },
+    rodapeIconImage: {
+        width: 20,
+        height: 20,
+    },
+});
