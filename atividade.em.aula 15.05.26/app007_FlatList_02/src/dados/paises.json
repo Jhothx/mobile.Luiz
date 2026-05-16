@@ -1,0 +1,17 @@
+[
+  { "id": "1", "pais": "Brasil", "capital": "Brasília" },
+  { "id": "2", "pais": "Argentina", "capital": "Buenos Aires" },
+  { "id": "3", "pais": "Chile", "capital": "Santiago" },
+  { "id": "4", "pais": "Paraguai", "capital": "Assunção" },
+  { "id": "5", "pais": "Uruguai", "capital": "Montevidéu" },
+  { "id": "6", "pais": "Estados Unidos", "capital": "Washington, D.C." },
+  { "id": "7", "pais": "Canadá", "capital": "Ottawa" },
+  { "id": "8", "pais": "México", "capital": "Cidade do México" },
+  { "id": "9", "pais": "França", "capital": "Paris" },
+  { "id": "10", "pais": "Alemanha", "capital": "Berlim" },
+  { "id": "11", "pais": "Itália", "capital": "Roma" },
+  { "id": "12", "pais": "Espanha", "capital": "Madri" },
+  { "id": "13", "pais": "Portugal", "capital": "Lisboa" },
+  { "id": "14", "pais": "Japão", "capital": "Tóquio" },
+  { "id": "15", "pais": "Austrália", "capital": "Canberra" }
+]
